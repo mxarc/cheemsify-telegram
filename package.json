@@ -1,0 +1,15 @@
+{
+  "name": "cheemsify-telegram",
+  "version": "1.0.0",
+  "description": "Un bot que jamas debio ser creado",
+  "repository": "https://github.com/mxarc/cheemsify-telegram",
+  "author": "Alfonso Reyes <vaca.hace.muu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.51.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.22",
+    "@types/node-telegram-bot-api": "^0.51.0"
+  }
+}

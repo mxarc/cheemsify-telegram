@@ -1,2 +1,3 @@
-# Cheemsify
-Cheemsificar textos
+# Cheemsify-telegram
+
+Bot de Telegram para Cheemsificar textos
